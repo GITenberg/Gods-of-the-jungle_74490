@@ -1,5 +1,8 @@
 _repo: Gods-of-the-jungle_74490
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74490-h/images/cover.jpg
 creator:
   author:
     agent_name: Bond, Nelson S.
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34095
     wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74490#Gods-of-the-jungle
 gutenberg_issued: '2024-09-28'
 gutenberg_type: Text
 identifiers:
